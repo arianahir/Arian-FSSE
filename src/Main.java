@@ -6,6 +6,6 @@ public class Main {
         char variableFour = 'P';
         String variableFive = "Hello World";
 
-        System.out.println(variableOne);
+        System.out.println(variableTwo);
     }
 }
